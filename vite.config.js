@@ -23,7 +23,7 @@ export default defineConfig({
       ],
     }),
   ],
-  base:'/',
+  base:'/Non-Prehensile-Pushing',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
